@@ -1,0 +1,6 @@
+venv/
+Node classification con GCN\dataset.zip
+Node classification con GCN\musae_git_edges.csv
+Node classification con GCN\musae_git_features.json
+Node classification con GCN\musae_git_target.csv
+Node classification con GCN\test.txt
